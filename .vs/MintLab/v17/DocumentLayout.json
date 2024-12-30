@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mint Tea\\source\\repos\\MintLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80063BF0-3F06-4088-BC63-07D342B1C3FE}|MintLab\\MintLab.csproj|c:\\users\\mint tea\\source\\repos\\mintlab\\mintlab\\materialpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80063BF0-3F06-4088-BC63-07D342B1C3FE}|MintLab\\MintLab.csproj|solutionrelative:mintlab\\materialpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80063BF0-3F06-4088-BC63-07D342B1C3FE}|MintLab\\MintLab.csproj|C:\\Users\\Mint Tea\\source\\repos\\MintLab\\mintlab\\materialpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80063BF0-3F06-4088-BC63-07D342B1C3FE}|MintLab\\MintLab.csproj|solutionrelative:mintlab\\materialpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80063BF0-3F06-4088-BC63-07D342B1C3FE}|MintLab\\MintLab.csproj|C:\\Users\\Mint Tea\\source\\repos\\MintLab\\mintlab\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80063BF0-3F06-4088-BC63-07D342B1C3FE}|MintLab\\MintLab.csproj|solutionrelative:mintlab\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80063BF0-3F06-4088-BC63-07D342B1C3FE}|MintLab\\MintLab.csproj|C:\\Users\\Mint Tea\\source\\repos\\MintLab\\mintlab\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80063BF0-3F06-4088-BC63-07D342B1C3FE}|MintLab\\MintLab.csproj|solutionrelative:mintlab\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mint Tea\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80063BF0-3F06-4088-BC63-07D342B1C3FE}|MintLab\\MintLab.csproj|C:\\Users\\Mint Tea\\source\\repos\\MintLab\\mintlab\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80063BF0-3F06-4088-BC63-07D342B1C3FE}|MintLab\\MintLab.csproj|solutionrelative:mintlab\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80063BF0-3F06-4088-BC63-07D342B1C3FE}|MintLab\\MintLab.csproj|C:\\Users\\Mint Tea\\source\\repos\\MintLab\\mintlab\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80063BF0-3F06-4088-BC63-07D342B1C3FE}|MintLab\\MintLab.csproj|solutionrelative:mintlab\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80063BF0-3F06-4088-BC63-07D342B1C3FE}|MintLab\\MintLab.csproj|C:\\Users\\Mint Tea\\source\\repos\\MintLab\\mintlab\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80063BF0-3F06-4088-BC63-07D342B1C3FE}|MintLab\\MintLab.csproj|solutionrelative:mintlab\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80063BF0-3F06-4088-BC63-07D342B1C3FE}|MintLab\\MintLab.csproj|C:\\Users\\Mint Tea\\source\\repos\\MintLab\\mintlab\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80063BF0-3F06-4088-BC63-07D342B1C3FE}|MintLab\\MintLab.csproj|solutionrelative:mintlab\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80063BF0-3F06-4088-BC63-07D342B1C3FE}|MintLab\\MintLab.csproj|C:\\Users\\Mint Tea\\source\\repos\\MintLab\\mintlab\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80063BF0-3F06-4088-BC63-07D342B1C3FE}|MintLab\\MintLab.csproj|solutionrelative:mintlab\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80063BF0-3F06-4088-BC63-07D342B1C3FE}|MintLab\\MintLab.csproj|C:\\Users\\Mint Tea\\source\\repos\\MintLab\\mintlab\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80063BF0-3F06-4088-BC63-07D342B1C3FE}|MintLab\\MintLab.csproj|solutionrelative:mintlab\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80063BF0-3F06-4088-BC63-07D342B1C3FE}|MintLab\\MintLab.csproj|C:\\Users\\Mint Tea\\source\\repos\\MintLab\\mintlab\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80063BF0-3F06-4088-BC63-07D342B1C3FE}|MintLab\\MintLab.csproj|solutionrelative:mintlab\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaterialPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mint Tea\\source\\repos\\MintLab\\MintLab\\MaterialPage.xaml.cs",
+              "RelativeDocumentMoniker": "MintLab\\MaterialPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Mint Tea\\source\\repos\\MintLab\\MintLab\\MaterialPage.xaml.cs",
+              "RelativeToolTip": "MintLab\\MaterialPage.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAswCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:31:24.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaterialPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Mint Tea\\source\\repos\\MintLab\\MintLab\\MaterialPage.xaml",
+              "RelativeDocumentMoniker": "MintLab\\MaterialPage.xaml",
+              "ToolTip": "C:\\Users\\Mint Tea\\source\\repos\\MintLab\\MintLab\\MaterialPage.xaml",
+              "RelativeToolTip": "MintLab\\MaterialPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-25T14:31:22.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mint Tea\\source\\repos\\MintLab\\MintLab\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MintLab\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Mint Tea\\source\\repos\\MintLab\\MintLab\\App.xaml.cs",
+              "RelativeToolTip": "MintLab\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:27:57.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Mint Tea\\source\\repos\\MintLab\\MintLab\\App.xaml",
+              "RelativeDocumentMoniker": "MintLab\\App.xaml",
+              "ToolTip": "C:\\Users\\Mint Tea\\source\\repos\\MintLab\\MintLab\\App.xaml",
+              "RelativeToolTip": "MintLab\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-25T14:27:54.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mint Tea\\source\\repos\\MintLab\\MintLab\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MintLab\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Mint Tea\\source\\repos\\MintLab\\MintLab\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "MintLab\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwEoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:26:48.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Mint Tea\\source\\repos\\MintLab\\MintLab\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "MintLab\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\Mint Tea\\source\\repos\\MintLab\\MintLab\\LoginWindow.xaml",
+              "RelativeToolTip": "MintLab\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-25T14:26:20.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\Mint Tea\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\Mint Tea\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
+              "ViewState": "AQIAAJYBAAAAAAAAAAAWwLUBAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:24:55.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mint Tea\\source\\repos\\MintLab\\MintLab\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "MintLab\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Mint Tea\\source\\repos\\MintLab\\MintLab\\HomePage.xaml.cs",
+              "RelativeToolTip": "MintLab\\HomePage.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:22:39.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Mint Tea\\source\\repos\\MintLab\\MintLab\\Manager.cs",
+              "RelativeDocumentMoniker": "MintLab\\Manager.cs",
+              "ToolTip": "C:\\Users\\Mint Tea\\source\\repos\\MintLab\\MintLab\\Manager.cs",
+              "RelativeToolTip": "MintLab\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:18:03.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Mint Tea\\source\\repos\\MintLab\\MintLab\\HomePage.xaml",
+              "RelativeDocumentMoniker": "MintLab\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\Mint Tea\\source\\repos\\MintLab\\MintLab\\HomePage.xaml",
+              "RelativeToolTip": "MintLab\\HomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-25T14:22:11.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Mint Tea\\source\\repos\\MintLab\\MintLab\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MintLab\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Mint Tea\\source\\repos\\MintLab\\MintLab\\MainWindow.xaml",
+              "RelativeToolTip": "MintLab\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-25T14:11:00.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mint Tea\\source\\repos\\MintLab\\MintLab\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MintLab\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Mint Tea\\source\\repos\\MintLab\\MintLab\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MintLab\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvxQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:10:59.924Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
